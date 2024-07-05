@@ -1,2 +1,2 @@
 Roses are blue
-I love git
+I love code and git
